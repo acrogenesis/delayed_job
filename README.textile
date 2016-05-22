@@ -1,3 +1,5 @@
+h1. DEPRECATED use https://github.com/collectiveidea/delayed_job
+
 h1. Delayed::Job
 
 Delayed_job (or DJ) encapsulates the common pattern of asynchronously executing longer tasks in the background. 
